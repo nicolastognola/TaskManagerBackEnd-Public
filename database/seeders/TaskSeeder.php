@@ -17,7 +17,7 @@ class TaskSeeder extends Seeder
         {
             // Crear tareas de ejemplo
             Task::create(['name' => 'Comprar comida', 'completed' => false]);
-            Task::create(['name' => 'Aprender Laravel', 'completed' => true]);
+            Task::create(['name' => 'Jugar futbol', 'completed' => true]);
             Task::create(['name' => 'Hacer ejercicio', 'completed' => false]);
             Task::create(['name' => 'Leer un libro', 'completed' => true]);
             Task::create(['name' => 'Organizar escritorio', 'completed' => false]);
