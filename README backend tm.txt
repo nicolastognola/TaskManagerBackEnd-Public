@@ -16,7 +16,7 @@ https://getcomposer.org/download/
 
 Clonar repositorio de GitHub y ejectuar composer install
 
-Abrir phpMyAdmin creando una base de datos llamada taskmanager configurando a base de datos del archivo .env asi
+Abrir phpMyAdmin (http://localhost/phpmyadmin) creando una base de datos llamada taskmanager configurando a base de datos del archivo .env asi
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
